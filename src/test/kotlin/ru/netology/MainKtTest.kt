@@ -42,7 +42,7 @@ class MainKtTest {
             cards = cards
         )
 
-        assertEquals(8030, result)
+        assertEquals(8000, result)
     }
 
     @Test
